@@ -5,7 +5,7 @@
 ## About The Project
 
 This is a basic course about Apollo and GraphQL that can be found in this link:
-* (https://www.apollographql.com/blog/introducing-odyssey-the-apollo-learning-platform/)
+* [Apollo Blog](https://www.apollographql.com/blog/introducing-odyssey-the-apollo-learning-platform/)
 
 
 ### Built With
