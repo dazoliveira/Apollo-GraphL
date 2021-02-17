@@ -1,4 +1,4 @@
-# Apollo-GraphL
+# Apollo-GraphQL
 
 
 <!-- ABOUT THE PROJECT -->
